@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "tarpas",
+  "repo": "pytest-testmon",
+  "versions": [
+    {
+      "commit": "dccc58d2ed8edec98096ff1974acb7c07d3e3482",
+      "parsed_at": "2026-10-18T05:20:07.042897+00:00",
+      "tag": "v2.2.0",
+      "filetree": "filetree/dccc58d2ed8edec98096ff1974acb7c07d3e3482.nq.gz",
+      "blobs": [
+        "blob/fff2c36b1bd9530bee3d8df56a68a5e50fdea34b.nq.gz",
+        "blob/7f1a1763ca9cebc7bc16576d353d3284ee5d3c7d.nq.gz",
+        "blob/02bad24caec6c08178b0bfdb2f49612e0ad0f5d2.nq.gz",
+        "blob/7d8b7e660dd9b32ad920e66bbd91b5403f41f08a.nq.gz",
+        "blob/8ccf22293ebc5ca7aa8eae97abc73f88ae4b25aa.nq.gz",
+        "blob/434f2c996b46171906e48ca7ecf7fa9d52a1a617.nq.gz",
+        "blob/a3566077428904fb249e2d52e59f65235d5b8a4f.nq.gz",
+        "blob/8809e999fa594f917a13ee0d1a82fb22180d2202.nq.gz",
+        "blob/9eb281611e3e4fb27ff69ee4463dafe24d31b71f.nq.gz",
+        "blob/60b5521c4b1285c5c83faa5ea427e5ca5ee34081.nq.gz",
+        "blob/6238fcb1b6b327f58d1f039e6617a68384ce5720.nq.gz",
+        "blob/88417912c1d19a93692732815af22e280845efa3.nq.gz",
+        "blob/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30.nq.gz",
+        "blob/9b69c9330e0e68b9878a993664babbdf6373a0a9.nq.gz",
+        "blob/b580a4d0c216dc44d7437111c4ac0298a5232e44.nq.gz",
+        "blob/41f544f9ab83c97cfec6ecbd10772c0389dc2117.nq.gz",
+        "blob/28fa9976c3b863e9af4006a9995dfddb78c7f31c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
