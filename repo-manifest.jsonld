@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tarpas/pytest-testmon/commit/dccc58d2ed8edec98096ff1974acb7c07d3e3482",
       "git:hexsha": "dccc58d2ed8edec98096ff1974acb7c07d3e3482",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.2.0",
+      "repolex:parsedAt": "2026-10-18T05:22:44.690964+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tarpas/pytest-testmon/commit/d8c0d132c809b1852989d290b7175c646cd78967",
